@@ -18,7 +18,7 @@ A browser-based financial transaction screening tool designed to help identify p
 
 ## How It Works
 
-Sentinel is able to extract text from multiple uploaded files and compares transaction descriptions against predefined and user-defined keyword lists. Matching transactions are flagged and grouped into categories for review.
+Sentinel is able to extract text from multiple uploaded files and compares transaction descriptions against predefined and user-defined keyword lists. Matching transactions are flagged and grouped into categories for review. All processing is performed entirely within the browser - no data is uploaded to external servers, no API calls are made, and no internet connection is required after the page has loaded, ensuring uploaded financial documents remain completely private.
 
 ## Example Use Cases
 
